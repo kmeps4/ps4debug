@@ -1,4 +1,8 @@
 # ps4debug for 9.00
+NOTE: DO NOT USE this port as your defualt PS4Debug Bin.. pls use CTN one: https://github.com/ctn123/PS4_Cheater/releases/tag/1.5.4.7
+
+This port still needs some extra patching... so consider it as a beta port.. :P
+
 This is a debugger for the PlayStation 4. Yes thats right! Look around and you will find some very useful tools online or on the PS4 Source Discord channel. Anything is possible, except kernel mode debugging, which I decided to leave out.
 
 ### Quickstart Guide
