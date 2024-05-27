@@ -1,5 +1,7 @@
 # ps4debug for 9.00
-NOTE: DO NOT USE this port as your defualt PS4Debug Bin.. pls use CTN one: https://github.com/ctn123/PS4_Cheater/releases/tag/1.5.4.7
+NOTE: DO NOT USE this port as your defualt PS4Debug Bin..
+
+New link: https://github.com/GoldHEN/ps4debug
 
 This port still needs some extra patching... so consider it as a beta port.. :P
 
